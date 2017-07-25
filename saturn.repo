@@ -1,0 +1,13 @@
+[elasticsearch-1.7]
+name=Elasticsearch repository for 1.7.x packages
+baseurl=http://packages.elastic.co/elasticsearch/1.7/centos
+gpgcheck=1
+gpgkey=http://packages.elastic.co/GPG-KEY-elasticsearch
+enabled=1
+
+[mongodb-org-3.0]
+name=MongoDB Repository
+baseurl=http://repo.mongodb.org/yum/redhat/$releasever/mongodb-org/3.0/x86_64/
+gpgcheck=0
+enabled=1
+

@@ -1,0 +1,6 @@
+
+# Pre-reqs before running
+
+Change the conf file according to the ips
+Make sure the repo files are correct or create tunnel if using saturn repo
+Start the service manually after sucessfull deployment of the docker 
